@@ -1,0 +1,24 @@
+*{
+    font-family:"Comic Sans MS",cursive, sans-serif;
+    background-color:aquamarine;
+}
+h1{
+    color:Brown;
+    top:300px
+}
+ul{
+    text-align:right;
+    color:red;
+    position:fixed;
+    top:0;
+    overflow:hidden;
+
+}
+/* Nav Bar  */
+li{
+    display:inline;
+    margin:20px;
+    font-size:40px;
+    float:right;
+
+}
